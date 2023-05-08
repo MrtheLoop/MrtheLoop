@@ -9,7 +9,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mec.theus307/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@quersatos2.s)
 
-![Salvador GitHub stats](https://github-readme-stats.vercel.app/api?username=MrtheLoop&show_icons=true&theme=dark)
+![Salvador GitHub stats](https://github-readme-stats.vercel.app/api?username=MrtheLoop&show_icons=true&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrtheLoop&demo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Quais tecnologias conheço
@@ -21,6 +22,7 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div></br>
+
 
 Apaixonado por Linux e Hacking 🐧
 
